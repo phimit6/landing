@@ -1,0 +1,33 @@
+.flex-container {
+  display: flex;
+  justify-content: space-around;
+  width: 75%;
+  margin: 0 auto;
+  margin-bottom: 20px;
+}
+
+.flex-item {
+  box-shadow: 1px 1px 5px grey;
+  padding: 5px 20px 0px 20px;
+  margin: 15px 0 20px 50px;
+  height: 280px;
+
+}
+
+.flex-item img {
+  width: 160px;
+  height: 160px;
+  position: relative;
+  padding-left: 20px;
+  }
+
+.flex-item h3 {
+  text-align: center;
+
+}
+
+.flex-item p {
+  text-align: center;
+  color: #B0B1B2;
+}
+
